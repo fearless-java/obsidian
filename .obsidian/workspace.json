@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "207b7f7d2fa9322f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b6eee5f6a17c6f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feef371fb134da29",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bfbbeaf0499dc2a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6b3c2fd1a691f82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0411a0282e7b1720",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2360bd61c6f22683",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7380ee19fdbca800",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a2ec1f95e33a1f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb4b8524fae6a7b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af85839b0a13e3bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian/prompt/架构师心智模型教学提示词.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "架构师心智模型教学提示词 的反向链接列表"
+            }
+          },
+          {
+            "id": "c584ffe339c17651",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "7bc1a268b4ae1d2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "65bbacecd228ce62",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d5287dec4218768b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "39aef91578677953",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "0411a0282e7b1720",
+  "lastOpenFiles": [
+    "未命名.base",
+    "pool together.md",
+    "未命名 1.base",
+    "obsidian/prompt/架构师心智模型教学提示词.md",
+    "obsidian/scaffold-eth-2项目学习/结构树状图.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/未命名.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/README.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useDeployedContractInfo.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useScaffoldWatchContractEvent.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/00-核心Hooks完整總結.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useScaffoldReadContract.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useScaffoldWriteContract.md",
+    "obsidian/scaffold-eth-2项目学习/总结（非ai版）.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useTargetNetwork.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useSelectedNetwork.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useContractLogs（监听所有事件日志）.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useFetchBlocks.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useScaffoldEventHistory.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useScaffoldContract.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useOutsideClick.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useNetworkColor.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/未命名",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes的替身",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/00-核心Hooks完整總結.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/useContractLogs（监听所有事件日志）.md",
+    "obsidian/prompt",
+    "未命名"
+  ]
+}
