@@ -11,14 +11,14 @@
             "id": "36a39b08e9080579",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "obsidian",
-                "bFile": "obsidian",
-                "aRef": ""
+                "file": "pool together.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: obsidian  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "pool together"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 278.5
   },
   "right": {
     "id": "0a2ec1f95e33a1f5",
@@ -194,6 +194,8 @@
   },
   "active": "36a39b08e9080579",
   "lastOpenFiles": [
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useDeployedContractInfo.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useContractLogs（监听所有事件日志）.md",
     "mac测试.md",
     "未命名 2.base",
     "未命名.canvas",
@@ -204,7 +206,6 @@
     "obsidian/scaffold-eth-2项目学习/结构树状图.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/未命名.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/README.md",
-    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useDeployedContractInfo.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useScaffoldWatchContractEvent.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/00-核心Hooks完整總結.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useScaffoldReadContract.md",
@@ -212,7 +213,6 @@
     "obsidian/scaffold-eth-2项目学习/总结（非ai版）.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useTargetNetwork.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useSelectedNetwork.md",
-    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useContractLogs（监听所有事件日志）.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useFetchBlocks.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useScaffoldEventHistory.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useScaffoldContract.md",
