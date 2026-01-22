@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/solana/前端/solana官方hooks（覆盖百分之九十）.md",
+                "file": "obsidian/solana/前端/solana-hooks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "solana官方hooks（覆盖百分之九十）"
+              "title": "solana-hooks"
             }
           }
         ]
@@ -155,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "obsidian/solana/前端/solana-hooks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "solana-hooks 的大纲"
             }
           },
           {
@@ -174,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -192,10 +193,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "a789395f9e6173d1",
+  "active": "d5287dec4218768b",
   "lastOpenFiles": [
-    "obsidian/prompt/架构师心智模型教学提示词.md",
     "obsidian/solana/前端/solana官方hooks（覆盖百分之九十）.md",
+    "obsidian/solana/前端/solana-hooks.md",
+    "obsidian/prompt/架构师心智模型教学提示词.md",
     "obsidian/solana/前端",
     "obsidian/solana",
     "pool together.md",
@@ -229,7 +231,6 @@
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes",
     "obsidian/scaffold-eth-2项目学习/hooks部分/未命名",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes的替身",
-    "obsidian/scaffold-eth-2项目学习/hooks部分/00-核心Hooks完整總結.md",
-    "obsidian/scaffold-eth-2项目学习/hooks部分/useContractLogs（监听所有事件日志）.md"
+    "obsidian/scaffold-eth-2项目学习/hooks部分/00-核心Hooks完整總結.md"
   ]
 }
