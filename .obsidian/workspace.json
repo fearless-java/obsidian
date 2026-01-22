@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/prompt/架构师心智模型教学提示词.md",
+                "file": "obsidian/solana/前端/solana官方hooks（覆盖百分之九十）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "架构师心智模型教学提示词"
+              "title": "solana官方hooks（覆盖百分之九十）"
             }
           }
         ]
@@ -194,6 +194,10 @@
   },
   "active": "a789395f9e6173d1",
   "lastOpenFiles": [
+    "obsidian/prompt/架构师心智模型教学提示词.md",
+    "obsidian/solana/前端/solana官方hooks（覆盖百分之九十）.md",
+    "obsidian/solana/前端",
+    "obsidian/solana",
     "pool together.md",
     "obsidian/手机端测试.md",
     "图.md",
@@ -206,7 +210,6 @@
     "未命名.canvas",
     "未命名 1.base",
     "未命名.base",
-    "obsidian/prompt/架构师心智模型教学提示词.md",
     "obsidian/scaffold-eth-2项目学习/结构树状图.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/未命名.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/README.md",
@@ -227,8 +230,6 @@
     "obsidian/scaffold-eth-2项目学习/hooks部分/未命名",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes的替身",
     "obsidian/scaffold-eth-2项目学习/hooks部分/00-核心Hooks完整總結.md",
-    "obsidian/scaffold-eth-2项目学习/hooks部分/useContractLogs（监听所有事件日志）.md",
-    "obsidian/prompt",
-    "未命名"
+    "obsidian/scaffold-eth-2项目学习/hooks部分/useContractLogs（监听所有事件日志）.md"
   ]
 }
