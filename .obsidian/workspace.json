@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/solana/前端/solana-hooks.md",
+                "file": "obsidian/以太坊/前端/wagmi-hooks-manual.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "solana-hooks"
+              "title": "wagmi-hooks-manual"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/solana/前端/solana-hooks.md",
+                "file": "obsidian/以太坊/前端/wagmi-hooks-manual.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "solana-hooks 的大纲"
+              "title": "wagmi-hooks-manual 的大纲"
             }
           },
           {
@@ -193,10 +193,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d5287dec4218768b",
+  "active": "a789395f9e6173d1",
   "lastOpenFiles": [
-    "obsidian/solana/前端/solana官方hooks（覆盖百分之九十）.md",
     "obsidian/solana/前端/solana-hooks.md",
+    "obsidian/以太坊/前端/wagmi-hooks-manual.md",
+    "obsidian/以太坊/前端",
+    "obsidian/以太坊",
+    "以太坊",
+    "obsidian/solana/前端/solana官方hooks（覆盖百分之九十）.md",
     "obsidian/prompt/架构师心智模型教学提示词.md",
     "obsidian/solana/前端",
     "obsidian/solana",
@@ -227,10 +231,6 @@
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useOutsideClick.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useNetworkColor.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks",
-    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs",
-    "obsidian/scaffold-eth-2项目学习/hooks部分/notes",
-    "obsidian/scaffold-eth-2项目学习/hooks部分/未命名",
-    "obsidian/scaffold-eth-2项目学习/hooks部分/notes的替身",
-    "obsidian/scaffold-eth-2项目学习/hooks部分/00-核心Hooks完整總結.md"
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs"
   ]
 }
