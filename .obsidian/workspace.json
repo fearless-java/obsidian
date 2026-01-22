@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mac测试.md",
+                "file": "obsidian/prompt/架构师心智模型教学提示词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mac测试"
+              "title": "架构师心智模型教学提示词"
             }
           }
         ]
@@ -195,9 +195,10 @@
   "active": "a789395f9e6173d1",
   "lastOpenFiles": [
     "pool together.md",
+    "obsidian/手机端测试.md",
+    "图.md",
     "mac测试.md",
     "obsidian/ts后端/HonoJS学习笔记.md",
-    "图.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useScaffoldWriteContract.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useDeployedContractInfo.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useContractLogs（监听所有事件日志）.md",
