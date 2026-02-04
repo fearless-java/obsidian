@@ -195,6 +195,8 @@
   },
   "active": "a789395f9e6173d1",
   "lastOpenFiles": [
+    "obsidian/技术栈自然语言文档/Pinata IPFS 自然语言开发指南.md",
+    "obsidian/技术栈自然语言文档/Vite自然语言开发指南.md",
     "obsidian/技术栈自然语言文档/prompt-web3-frontend-guide.md",
     "obsidian/技术栈自然语言文档/viem-natural-language-guide-part4.md",
     "obsidian/技术栈自然语言文档/viem-natural-language-guide-part3.md",
@@ -224,12 +226,10 @@
     "obsidian/ts后端/HonoJS学习笔记.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useScaffoldWriteContract.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useDeployedContractInfo.md",
-    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useContractLogs（监听所有事件日志）.md",
     "未命名 2.base",
     "未命名.canvas",
     "未命名 1.base",
     "未命名.base",
-    "obsidian/scaffold-eth-2项目学习/结构树状图.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs"
   ]
