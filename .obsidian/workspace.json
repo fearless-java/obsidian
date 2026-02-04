@@ -195,6 +195,7 @@
   },
   "active": "a789395f9e6173d1",
   "lastOpenFiles": [
+    "obsidian/技术栈自然语言文档/React Hooks 完全指南.md",
     "obsidian/以太坊/前端/wagmi-hooks-manual.md",
     "obsidian/scaffold-eth-2项目学习/总结（非ai版）.md",
     "obsidian/solana/前端/solana-hooks.md",
@@ -229,7 +230,6 @@
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useScaffoldEventHistory.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useScaffoldContract.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useOutsideClick.md",
-    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useNetworkColor.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs"
   ]
