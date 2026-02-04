@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/测试.md",
+                "file": "obsidian/pool together.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测试"
+              "title": "pool together"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/测试.md",
+                "file": "obsidian/pool together.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "测试 的大纲"
+              "title": "pool together 的大纲"
             }
           },
           {
@@ -193,10 +193,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "a789395f9e6173d1",
+  "active": "0411a0282e7b1720",
   "lastOpenFiles": [
-    "obsidian/技术栈自然语言文档/Wagmi自然语言开发指南.md",
     "obsidian/测试.md",
+    "obsidian/技术栈自然语言文档/Wagmi自然语言开发指南.md",
     "obsidian/技术栈自然语言文档/Vite自然语言开发指南.md",
     "obsidian/技术栈自然语言文档/Pinata IPFS 自然语言开发指南.md",
     "obsidian/技术栈自然语言文档/prompt-web3-frontend-guide.md",
@@ -220,7 +220,7 @@
     "obsidian/prompt/架构师心智模型教学提示词.md",
     "obsidian/solana/前端",
     "obsidian/solana",
-    "pool together.md",
+    "obsidian/pool together.md",
     "obsidian/手机端测试.md",
     "图.md",
     "mac测试.md",
