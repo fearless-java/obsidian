@@ -25,12 +25,14 @@
             "id": "c6a398ac6175aac0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "obsidian/技术栈自然语言文档/viem-v2-complete-guide.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.7"
+              "icon": "lucide-file",
+              "title": "viem-v2-complete-guide"
             }
           }
         ],
@@ -91,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 429.5,
+    "collapsed": true
   },
   "right": {
     "id": "0a2ec1f95e33a1f5",
@@ -168,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "obsidian/技术栈自然语言文档/viem-v2-complete-guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "viem-v2-complete-guide 的大纲"
             }
           },
           {
@@ -207,6 +211,7 @@
   },
   "active": "c6a398ac6175aac0",
   "lastOpenFiles": [
+    "obsidian/技术栈自然语言文档/viem-v2-complete-guide.md",
     "obsidian/技术栈自然语言文档/Wagmi自然语言开发指南.md",
     "obsidian/以太坊/前端/wagmi-hooks-manual.md",
     "obsidian/pool together.md",
@@ -237,7 +242,6 @@
     "图.md",
     "mac测试.md",
     "obsidian/ts后端/HonoJS学习笔记.md",
-    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useScaffoldWriteContract.md",
     "未命名 2.base",
     "未命名.canvas",
     "未命名 1.base",
