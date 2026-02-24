@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/Rust_完全通透式教学.md",
+                "file": "obsidian/typescript-tutorial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust_完全通透式教学"
+              "title": "typescript-tutorial"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5,
-    "collapsed": true
+    "width": 429.5
   },
   "right": {
     "id": "0a2ec1f95e33a1f5",
@@ -171,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/Rust_完全通透式教学.md",
+                "file": "obsidian/typescript-tutorial.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Rust_完全通透式教学 的大纲"
+              "title": "typescript-tutorial 的大纲"
             }
           },
           {
@@ -211,9 +210,10 @@
   },
   "active": "c6a398ac6175aac0",
   "lastOpenFiles": [
+    "obsidian/Rust_完全通透式教学.md",
+    "obsidian/typescript-tutorial.md",
     "obsidian/pool together.md",
     "obsidian/技术栈自然语言文档/viem-v2-complete-guide.md",
-    "obsidian/Rust_完全通透式教学.md",
     "obsidian/技术栈自然语言文档/viem-v2-complete-teaching-guide.md",
     "obsidian/技术栈自然语言文档/viem-natural-language-guide-part3.md",
     "obsidian/技术栈自然语言文档/viem-natural-language-guide-part4.md",
@@ -241,7 +241,6 @@
     "obsidian/solana/前端",
     "obsidian/solana",
     "obsidian/手机端测试.md",
-    "图.md",
     "未命名 2.base",
     "未命名.canvas",
     "未命名 1.base",
