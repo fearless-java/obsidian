@@ -94,8 +94,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:#Expandable",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -115,7 +115,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -236,7 +237,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9b28f8b246b5c70e",
+  "active": "2360bd61c6f22683",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-03-07 16.36.23.excalidraw.md",
     "obsidian/个人网站动效选择.md",
