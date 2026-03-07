@@ -51,12 +51,14 @@
             "id": "9b28f8b246b5c70e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-07 16.36.23.excalidraw.md"
+                "file": "obsidian/个人网站动效选择.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-07 16.36.23.excalidraw"
+              "icon": "lucide-file",
+              "title": "个人网站动效选择"
             }
           }
         ],
@@ -194,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-07 16.36.23.excalidraw.md",
+                "file": "obsidian/个人网站动效选择.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2026-03-07 16.36.23.excalidraw 的大纲"
+              "title": "个人网站动效选择 的大纲"
             }
           },
           {
@@ -236,10 +238,11 @@
   },
   "active": "9b28f8b246b5c70e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-03-07 16.36.23.excalidraw.md",
+    "obsidian/个人网站动效选择.md",
     "obsidian/网站交互流程.flowchart.md",
     "obsidian/流浪数字人网站架构.hierarchy.md",
     "obsidian/3D专辑堆叠技术.technical.md",
-    "Excalidraw/Drawing 2026-03-07 16.36.23.excalidraw.md",
     "Excalidraw",
     "未命名",
     "obsidian/typescript-tutorial.md",
@@ -263,7 +266,6 @@
     "obsidian/技术栈自然语言文档/React Hooks 完全指南.md",
     "obsidian/技术栈自然语言文档/1.md",
     "obsidian/技术栈自然语言文档/React 19 自然语言开发指南.md",
-    "obsidian/scaffold-eth-2项目学习/总结（非ai版）.md",
     "obsidian/以太坊/前端",
     "obsidian/以太坊",
     "以太坊",
