@@ -36,15 +36,17 @@
             }
           },
           {
-            "id": "f232f5451a861111",
+            "id": "751241208a4769d0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "obsidian/3D专辑堆叠技术.technical.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.4"
+              "icon": "lucide-file",
+              "title": "3D专辑堆叠技术.technical"
             }
           }
         ],
@@ -182,12 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "obsidian/3D专辑堆叠技术.technical.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "3D专辑堆叠技术.technical 的大纲"
             }
           },
           {
@@ -205,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,10 +223,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "f232f5451a861111",
+  "active": "751241208a4769d0",
   "lastOpenFiles": [
-    "obsidian/Rust_完全通透式教学.md",
+    "obsidian/网站交互流程.flowchart.md",
+    "obsidian/流浪数字人网站架构.hierarchy.md",
+    "obsidian/3D专辑堆叠技术.technical.md",
+    "未命名",
     "obsidian/typescript-tutorial.md",
+    "obsidian/Rust_完全通透式教学.md",
     "obsidian/pool together.md",
     "obsidian/技术栈自然语言文档/viem-v2-complete-guide.md",
     "obsidian/技术栈自然语言文档/viem-v2-complete-teaching-guide.md",
@@ -247,16 +255,12 @@
     "obsidian/以太坊/前端",
     "obsidian/以太坊",
     "以太坊",
-    "obsidian/solana/前端/solana官方hooks（覆盖百分之九十）.md",
-    "obsidian/prompt/架构师心智模型教学提示词.md",
     "obsidian/solana/前端",
     "obsidian/solana",
-    "obsidian/手机端测试.md",
     "未命名 2.base",
     "未命名.canvas",
     "未命名 1.base",
     "未命名.base",
-    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks",
-    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs"
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks"
   ]
 }
