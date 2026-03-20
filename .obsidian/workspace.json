@@ -51,12 +51,14 @@
             "id": "9b28f8b246b5c70e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/personal-website-layout.excalidraw"
+                "file": "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useDeployedContractInfo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "personal-website-layout"
+              "icon": "lucide-file",
+              "title": "useDeployedContractInfo"
             }
           }
         ],
@@ -236,6 +238,12 @@
   },
   "active": "9b28f8b246b5c70e",
   "lastOpenFiles": [
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/README.md",
+    "obsidian/scaffold-eth-2项目学习/结构树状图.md",
+    "obsidian/scaffold-eth-2项目学习/总结（非ai版）.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/未命名.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/00-核心Hooks完整總結.md",
+    "obsidian/web3笔记备份/ABI_Deep_Dive.md",
     "Excalidraw/personal-website-layout.excalidraw",
     "Excalidraw/Drawing 2026-03-07 16.36.23.excalidraw.md",
     "obsidian/个人网站动效选择.md",
@@ -267,11 +275,6 @@
     "obsidian/技术栈自然语言文档/Pinata IPFS 自然语言开发指南.md",
     "obsidian/技术栈自然语言文档/prompt-web3-frontend-guide.md",
     "obsidian/技术栈自然语言文档/viem-natural-language-guide-part1.md",
-    "obsidian/技术栈自然语言文档/TanStack-Query-自然语言开发指南.md",
-    "obsidian/技术栈自然语言文档/Zustand自然语言开发指南.md",
-    "obsidian/技术栈自然语言文档/提示词模板.md",
-    "obsidian/技术栈自然语言文档/React Hooks 完全指南.md",
-    "obsidian/技术栈自然语言文档/1.md",
     "obsidian/以太坊/前端",
     "obsidian/以太坊",
     "以太坊",
