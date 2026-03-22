@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/测试.md",
+                "file": "obsidian/typescript-panorama-guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测试"
+              "title": "typescript-panorama-guide"
             }
           }
         ],
@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 429.5,
+    "collapsed": true
   },
   "right": {
     "id": "0a2ec1f95e33a1f5",
@@ -196,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/测试.md",
+                "file": "obsidian/typescript-panorama-guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "测试 的大纲"
+              "title": "typescript-panorama-guide 的大纲"
             }
           },
           {
@@ -237,6 +238,8 @@
   },
   "active": "9b28f8b246b5c70e",
   "lastOpenFiles": [
+    "obsidian/测试.md",
+    "obsidian/typescript-panorama-guide.md",
     "截屏2026-03-08 00.15.05.png",
     "obsidian/技术栈自然语言文档/viem-natural-language-guide-part1.md",
     "obsidian/技术栈自然语言文档/Wagmi自然语言开发指南.md",
@@ -272,7 +275,6 @@
     "obsidian/Rust_完全通透式教学.md",
     "obsidian/pool together.md",
     "obsidian/技术栈自然语言文档/viem-v2-complete-guide.md",
-    "obsidian/技术栈自然语言文档/viem-v2-complete-teaching-guide.md",
     "obsidian/以太坊/前端",
     "obsidian/以太坊",
     "以太坊",
