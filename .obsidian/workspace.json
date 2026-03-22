@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5,
-    "collapsed": true
+    "width": 429.5
   },
   "right": {
     "id": "0a2ec1f95e33a1f5",
@@ -238,6 +237,9 @@
   },
   "active": "9b28f8b246b5c70e",
   "lastOpenFiles": [
+    "obsidian/web3_projects_guide.md",
+    "obsidian/web3-frontend-engineering-guide.md",
+    "obsidian/viem-panorama-guide.md",
     "obsidian/测试.md",
     "obsidian/typescript-panorama-guide.md",
     "截屏2026-03-08 00.15.05.png",
@@ -272,9 +274,6 @@
     "Excalidraw",
     "未命名",
     "obsidian/typescript-tutorial.md",
-    "obsidian/Rust_完全通透式教学.md",
-    "obsidian/pool together.md",
-    "obsidian/技术栈自然语言文档/viem-v2-complete-guide.md",
     "obsidian/以太坊/前端",
     "obsidian/以太坊",
     "以太坊",
