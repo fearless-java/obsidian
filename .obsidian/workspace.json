@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/viem-panorama-guide.md",
+                "file": "obsidian/web3-frontend-engineering-guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "viem-panorama-guide"
+              "title": "web3-frontend-engineering-guide"
             }
           }
         ],
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/viem-panorama-guide.md",
+                "file": "obsidian/web3-frontend-engineering-guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "viem-panorama-guide 的大纲"
+              "title": "web3-frontend-engineering-guide 的大纲"
             }
           },
           {
@@ -238,12 +238,12 @@
   },
   "active": "9b28f8b246b5c70e",
   "lastOpenFiles": [
-    "obsidian/typescript-panorama-guide.md",
     "obsidian/wagmi-complete-guide.md",
-    "obsidian/viem-panorama-guide.md",
     "obsidian/nextjs-comprehensive-guide.md",
-    "obsidian/web3_projects_guide.md",
     "obsidian/web3-frontend-engineering-guide.md",
+    "obsidian/viem-panorama-guide.md",
+    "obsidian/typescript-panorama-guide.md",
+    "obsidian/web3_projects_guide.md",
     "obsidian/测试.md",
     "截屏2026-03-08 00.15.05.png",
     "obsidian/技术栈自然语言文档/viem-natural-language-guide-part1.md",
