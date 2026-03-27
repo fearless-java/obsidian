@@ -60,9 +60,21 @@
               "icon": "lucide-file",
               "title": "web3-frontend-engineering-guide"
             }
+          },
+          {
+            "id": "333d1198d1154259",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.7"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,13 +209,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/web3-frontend-engineering-guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "web3-frontend-engineering-guide 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -236,7 +247,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9b28f8b246b5c70e",
+  "active": "333d1198d1154259",
   "lastOpenFiles": [
     "obsidian/wagmi-complete-guide.md",
     "obsidian/nextjs-comprehensive-guide.md",
