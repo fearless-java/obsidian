@@ -65,12 +65,14 @@
             "id": "333d1198d1154259",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "obsidian/scaffold-eth-2项目学习/hooks部分/未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.7"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ],
@@ -131,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5,
-    "collapsed": true
+    "width": 429.5
   },
   "right": {
     "id": "0a2ec1f95e33a1f5",
@@ -209,12 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "obsidian/scaffold-eth-2项目学习/hooks部分/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -249,8 +251,13 @@
   },
   "active": "333d1198d1154259",
   "lastOpenFiles": [
-    "obsidian/wagmi-complete-guide.md",
+    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/README.md",
+    "Excalidraw/Drawing 2026-03-07 16.36.23.excalidraw.md",
+    "Excalidraw/personal-website-layout.excalidraw",
+    "obsidian/scaffold-eth-2项目学习/总结（非ai版）.md",
     "obsidian/nextjs-comprehensive-guide.md",
+    "obsidian/solana/前端/solana-hooks.md",
+    "obsidian/wagmi-complete-guide.md",
     "obsidian/web3-frontend-engineering-guide.md",
     "obsidian/viem-panorama-guide.md",
     "obsidian/typescript-panorama-guide.md",
@@ -263,20 +270,15 @@
     "obsidian/技术栈自然语言文档/prompt-web3-frontend-guide.md",
     "obsidian/技术栈自然语言文档/React 19 自然语言开发指南.md",
     "obsidian/技术栈自然语言文档/React Hooks 完全指南.md",
-    "Excalidraw/personal-website-layout.excalidraw",
     "obsidian/ts后端/HonoJS学习笔记.md",
     "obsidian/3D专辑堆叠技术.technical.md",
     "obsidian/流浪数字人网站架构.hierarchy.md",
     "obsidian/网站交互流程.flowchart.md",
     "obsidian/以太坊/前端/wagmi-hooks-manual.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useDeployedContractInfo.md",
-    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/README.md",
     "obsidian/scaffold-eth-2项目学习/结构树状图.md",
-    "obsidian/scaffold-eth-2项目学习/总结（非ai版）.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/未命名.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/00-核心Hooks完整總結.md",
-    "obsidian/web3笔记备份/ABI_Deep_Dive.md",
-    "Excalidraw/Drawing 2026-03-07 16.36.23.excalidraw.md",
     "截屏2026-03-08 00.31.29.png",
     "截屏2026-03-08 00.30.11.png",
     "截屏2026-03-08 00.24.55.png",
