@@ -175,12 +175,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +194,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "65edae13dc7df19e",
+  "active": "0411a0282e7b1720",
   "lastOpenFiles": [
     "obsidian/scaffold-eth-2项目学习/hooks部分/未命名.md",
     "hook",
