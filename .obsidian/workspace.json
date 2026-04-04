@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "991b43a124306688",
+        "id": "99c3265f4f5f7282",
         "type": "tabs",
         "children": [
           {
-            "id": "65edae13dc7df19e",
+            "id": "0e474ffd1920a119",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名/测试.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "测试"
+              "title": "新标签页"
             }
           }
         ]
@@ -194,10 +190,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "65edae13dc7df19e",
+  "active": "0e474ffd1920a119",
   "lastOpenFiles": [
-    "hook-tutorial_副本/use-breakpoint.md",
     "未命名/测试.md",
+    "hook-tutorial_副本/use-breakpoint.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/未命名.md",
     "hook",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/README.md",
