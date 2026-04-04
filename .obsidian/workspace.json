@@ -4,79 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "477b889b2bd43a2d",
+        "id": "991b43a124306688",
         "type": "tabs",
         "children": [
           {
-            "id": "a789395f9e6173d1",
+            "id": "65edae13dc7df19e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/技术栈自然语言文档/React 19 自然语言开发指南.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "React 19 自然语言开发指南"
-            }
-          },
-          {
-            "id": "c6a398ac6175aac0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/typescript-tutorial.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "typescript-tutorial"
-            }
-          },
-          {
-            "id": "751241208a4769d0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "obsidian/3D专辑堆叠技术.technical.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "3D专辑堆叠技术.technical"
-            }
-          },
-          {
-            "id": "9b28f8b246b5c70e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/web3-frontend-engineering-guide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "web3-frontend-engineering-guide"
-            }
-          },
-          {
-            "id": "333d1198d1154259",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/scaffold-eth-2项目学习/hooks部分/未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5,
-    "collapsed": true
+    "width": 429.5
   },
   "right": {
     "id": "0a2ec1f95e33a1f5",
@@ -211,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/scaffold-eth-2项目学习/hooks部分/未命名.md",
+                "file": "截屏2026-03-08 00.15.05.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "截屏2026-03-08 00.15.05 的大纲"
             }
           },
           {
@@ -235,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,8 +191,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "333d1198d1154259",
+  "active": "0411a0282e7b1720",
   "lastOpenFiles": [
+    "obsidian/scaffold-eth-2项目学习/hooks部分/未命名.md",
+    "hook",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/README.md",
     "Excalidraw/Drawing 2026-03-07 16.36.23.excalidraw.md",
     "Excalidraw/personal-website-layout.excalidraw",
@@ -278,8 +221,6 @@
     "obsidian/以太坊/前端/wagmi-hooks-manual.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/notes/01-nextjs/hooks/useDeployedContractInfo.md",
     "obsidian/scaffold-eth-2项目学习/结构树状图.md",
-    "obsidian/scaffold-eth-2项目学习/hooks部分/未命名.md",
-    "obsidian/scaffold-eth-2项目学习/hooks部分/notes/00-核心Hooks完整總結.md",
     "截屏2026-03-08 00.31.29.png",
     "截屏2026-03-08 00.30.11.png",
     "截屏2026-03-08 00.24.55.png",
@@ -295,7 +236,6 @@
     "obsidian/solana/前端",
     "obsidian/solana",
     "未命名 2.base",
-    "未命名.canvas",
-    "未命名 1.base"
+    "未命名.canvas"
   ]
 }
