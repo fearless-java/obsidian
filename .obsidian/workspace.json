@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hook-tutorial_副本/wallet/use-wallet.md",
+                "file": "未命名/sushiswap_replica_plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "use-wallet"
+              "title": "sushiswap_replica_plan"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "截屏2026-03-08 00.15.05.png",
+                "file": "未命名/sushiswap_replica_plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "截屏2026-03-08 00.15.05 的大纲"
+              "title": "sushiswap_replica_plan 的大纲"
             }
           },
           {
@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,8 +194,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0e474ffd1920a119",
+  "active": "d5287dec4218768b",
   "lastOpenFiles": [
+    "hook-tutorial_副本/wallet/use-wallet.md",
+    "未命名/sushiswap_replica_plan.md",
     "hook-tutorial_副本/wallet/use-account.md",
     "hook-tutorial_副本/use-breakpoint.md",
     "hook-tutorial_副本/use-previous.md",
@@ -223,8 +225,6 @@
     "obsidian/技术栈自然语言文档/TanStack-Query-自然语言开发指南.md",
     "obsidian/技术栈自然语言文档/prompt-web3-frontend-guide.md",
     "obsidian/技术栈自然语言文档/React 19 自然语言开发指南.md",
-    "obsidian/技术栈自然语言文档/React Hooks 完全指南.md",
-    "obsidian/ts后端/HonoJS学习笔记.md",
     "截屏2026-03-08 00.31.29.png",
     "截屏2026-03-08 00.30.11.png",
     "截屏2026-03-08 00.24.55.png",
