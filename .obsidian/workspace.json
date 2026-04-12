@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hook-tutorial_副本/use-copy-clipboard.md",
+                "file": "hook-tutorial_副本/wallet/use-wallet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "use-copy-clipboard"
+              "title": "use-wallet"
             }
           }
         ]
@@ -198,6 +198,10 @@
   "lastOpenFiles": [
     "hook-tutorial_副本/wallet/use-account.md",
     "hook-tutorial_副本/use-breakpoint.md",
+    "hook-tutorial_副本/use-previous.md",
+    "hook-tutorial_副本/react-query/use-active-banners.md",
+    "hook-tutorial_副本/use-debounce.md",
+    "hook-tutorial_副本/use-copy-clipboard.md",
     "未命名/测试.md",
     "obsidian/scaffold-eth-2项目学习/hooks部分/未命名.md",
     "hook",
@@ -221,10 +225,6 @@
     "obsidian/技术栈自然语言文档/React 19 自然语言开发指南.md",
     "obsidian/技术栈自然语言文档/React Hooks 完全指南.md",
     "obsidian/ts后端/HonoJS学习笔记.md",
-    "obsidian/3D专辑堆叠技术.technical.md",
-    "obsidian/流浪数字人网站架构.hierarchy.md",
-    "obsidian/网站交互流程.flowchart.md",
-    "obsidian/以太坊/前端/wagmi-hooks-manual.md",
     "截屏2026-03-08 00.31.29.png",
     "截屏2026-03-08 00.30.11.png",
     "截屏2026-03-08 00.24.55.png",
