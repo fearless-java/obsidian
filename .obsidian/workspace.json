@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "99c3265f4f5f7282",
+        "id": "37bf3d779d9db096",
         "type": "tabs",
         "children": [
           {
-            "id": "0e474ffd1920a119",
+            "id": "d19db4164365f6f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名/sushiswap_replica_plan.md",
+                "file": "pi-agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sushiswap_replica_plan"
+              "title": "pi-agent"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名/sushiswap_replica_plan.md",
+                "file": "pi-agent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "sushiswap_replica_plan 的大纲"
+              "title": "pi-agent 的大纲"
             }
           },
           {
@@ -194,10 +194,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d5287dec4218768b",
+  "active": "d19db4164365f6f7",
   "lastOpenFiles": [
-    "hook-tutorial_副本/wallet/use-wallet.md",
+    "obsidian/以太坊/前端/wagmi-hooks-manual.md",
+    "pi-agent.md",
     "未命名/sushiswap_replica_plan.md",
+    "hook-tutorial_副本/wallet/use-wallet.md",
     "hook-tutorial_副本/wallet/use-account.md",
     "hook-tutorial_副本/use-breakpoint.md",
     "hook-tutorial_副本/use-previous.md",
@@ -223,8 +225,6 @@
     "obsidian/技术栈自然语言文档/viem-natural-language-guide-part1.md",
     "obsidian/技术栈自然语言文档/Wagmi自然语言开发指南.md",
     "obsidian/技术栈自然语言文档/TanStack-Query-自然语言开发指南.md",
-    "obsidian/技术栈自然语言文档/prompt-web3-frontend-guide.md",
-    "obsidian/技术栈自然语言文档/React 19 自然语言开发指南.md",
     "截屏2026-03-08 00.31.29.png",
     "截屏2026-03-08 00.30.11.png",
     "截屏2026-03-08 00.24.55.png",
